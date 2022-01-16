@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="time_format">dd/MMM/yyyy HH:mm:ss z</string>
+    <string name="content">"Nội dung: "</string>
+    <string name="from">"From: "</string>
+    <string name="to">"To: "</string>
+    <string name="system_message_head">[Hệ thống]</string>
+    <string name="success_connect">Đã kết nối đến máy chủ Telegram.</string>
+    <string name="connect_wait_title">Đang kết nối đến máy chủ Telegram…</string>
+    <string name="connect_wait_message">Vui lòng chờ...</string>
+    <string name="network_error_falls_back_to_sms">Forward SMS to trusted number when network unavailable</string>
+    <string name="logcat">Xem Log</string>
+    <string name="token_not_configure">Vui lòng cấu hình Bot Token đầu tiên.</string>
+    <string name="chat_id_or_token_not_config">Vui lòng cấu hình Bot Token và chat ID trước.</string>
+    <string name="unable_get_recent">Không tải được lịch sử trò chuyện gần đây</string>
+    <string name="chat_command">Response to chat command</string>
+    <string name="unknown_command">Unknown command, send /help to get the available commands list.</string>
+    <string name="current_network_connection_status">"Network status: "</string>
+    <string name="trusted_phone_number_empty">Trusted phone number cannot be empty.</string>
+    <string name="service_is_running"> đang được chạy...</string>
+    <string name="success">Thành công</string>
+    <string name="receive_sms_head">Bank SMS</string>
+    <string name="available_command">Available Commands:\n/getinfo - Get system information\n/log - Output the last 10 log records</string>
+    <string name="restart_service">Background service has been restarted.</string>
+    <string name="status">"Status: "</string>
+    <string name="send_failed">Failed</string>
+    <string name="airplane_mode">Device is in Airplane mode</string>
+    <string name="no_network">No service</string>
+    <string name="display_sim_card_alias_in_dual_card_mode">Hiển thị thông tin SIM</string>
+    <string name="failed_to_get_information">Fail to get information.</string>
+    <string name="sending">Sending</string>
+    <string name="get_recent_chat_title">Đang lấy các cuộc trò chuyện gần đây…</string>
+    <string name="get_recent_chat_message">Vui lòng gửi một số tin nhắn cho bot.</string>
+    <string name="using_doh">OkHttp DNS module</string>
+    <string name="no_logs">Chưa có nhật ký nào.</string>
+    <string name="using_verification_code_identification">Verification code automatic extraction (Alpha)</string>
+    <string name="unable_get_phone_number">Unable to get phone number.</string>
+    <string name="error_message_head">"Error message: "</string>
+    <string name="error_stop_message">A fatal error has occurred, the program has stopped.</string>
+    <string name="app_list">Bank App List</string>
+    <string name="receive_notification_title">[Bank App]</string>
+    <string name="app_name_title">"App: "</string>
+    <string name="title">"Tiêu đề: "</string>
+    <string name="Notification_Listener_title">"Dịch vụ "</string>
+    <string name="request">"Request: "</string>
+    <string name="error_message">"Error message: "</string>
+
+    <string name="ussd_code_running">USSD code running…</string>
+    <string name="privacy_reminder_information">Ứng dụng được phát triển bởi Nguyễn Việt Thái. Vui lòng thoát các ứng dụng nhận thông báo để nhận được thông tin đúng nhất. Phiên bản đang trong giai đoạn được thử nghiệm.</string>
+    <string name="privacy_reminder_title">Thông tin về ứng dụng</string>
+    <string name="agree">Ok</string>
+    <string name="decline">"I'll decide later"</string>
+    <string name="visit_page">Visit the Privacy Terms page</string>
+    <string name="failed_resend">"Resending failed SMS"</string>
+    <string name="proxy_enable">Enable</string>
+    <string name="proxy_host">Host</string>
+    <string name="proxy_port">Port</string>
+    <string name="proxy_username">Username</string>
+    <string name="proxy_password">Password</string>
+    <string name="proxy_title">Proxy</string>
+    <string name="spam_keyword_dialog_title">Please use \";\" to split keywords.</string>
+    <string name="proxy_dialog_title">Socks5 proxy setup</string>
+    <string name="set_notification_listener">Cài đặt thông báo</string>
+    <string name="time">"Time: "</string>
+    <string name="doh_over_socks5">DNS over HTTPS requests over Socks5</string>
+    <string name="transfer_configuration">Transfer Configuration</string>
+    <string name="ok_button">OK</string>
+    <string name="about_title">Thông tin</string>
+    <string name="about_content">"Phát triển bởi RxZ\nPhiên bản hiện tại: "</string>
+
+    <string name="AppName" translatable="false">Bank Notification</string>
+    <string name="DeviceName">Device name</string>
+    <string name="btnSave">Save</string>
+    <string name="saving">Saving</string>
+    <string name="waiting">Vui lòng đợi...</string>
+</resources>
